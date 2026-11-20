@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build and test outputs
+dist/
+dist-ssr/
+coverage/
+*.local
+
+# Environment variables
+.env
+.env*.local
+
+# Editor / OS files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
